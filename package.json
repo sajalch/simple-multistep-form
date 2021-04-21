@@ -1,0 +1,14 @@
+{
+  "title": "Details Collection",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "",
+  "dependencies": {
+    "@material-ui/core": "4.11.3",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "turbohire-assignment"
+}
